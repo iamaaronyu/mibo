@@ -9,5 +9,8 @@
 2019-4-8
 1/智能指针编译错误：g++ -std=c++11 -o test.exe test.cpp
 必须增加  “-std=c++11”
+步骤：
+1/git remote add origin git@github.com:mibo/learngit.git
+2/git push -u origin master
 
 
